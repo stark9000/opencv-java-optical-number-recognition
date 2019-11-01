@@ -96,7 +96,7 @@ public class NumberDetect extends javax.swing.JFrame implements WebcamListener, 
         jButton5 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Number Detector");
+        setTitle("Optical Number Detector");
         setResizable(false);
 
         jLabel1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
